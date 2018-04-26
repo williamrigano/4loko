@@ -1,5 +1,26 @@
 body {
-   background-image: url("4loko.gif");
-   background-color: #cccccc;
-   background-repeat: repeat;
+
+   background-color: orange;
+   background-repeat:  no-repeat;
+   background-attachment: fixed;
+    background-position: center;
+}
+p.ex1 {
+    padding-bottom: 10%;
+}
+
+
+#box {
+   border: 0px solid black;
+   padding: 0px;
+   margin: 4 auto;
+   width: 24.74em;
+   backgd: black;
+   background-clip: padding-box;;}
+
+h1{
+font-family: 'Gloria Hallelujah', cursive;
+
+
+
 }
